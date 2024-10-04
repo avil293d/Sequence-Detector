@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+E:/Verilog/Self/Sequence_detector/Sequence_detector.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+E:/Verilog/Self/Sequence_detector/Sequence_detector.srcs/sim_1/new/JK_FF_tb.v,1727966874,verilog,,,,JK_FF_tb,,,,,,,,
+E:/Verilog/Self/Sequence_detector/Sequence_detector.srcs/sim_1/new/sequence_tb.v,1727975603,verilog,,,,Sequence_detector_tb,,,,,,,,
+E:/Verilog/Self/Sequence_detector/Sequence_detector.srcs/sources_1/new/JK_FF.v,1727965126,verilog,,E:/Verilog/Self/Sequence_detector/Sequence_detector.srcs/sources_1/new/Sequence_detector.v,,JK_FF,,,,,,,,
+E:/Verilog/Self/Sequence_detector/Sequence_detector.srcs/sources_1/new/Sequence_detector.v,1727975263,verilog,,E:/Verilog/Self/Sequence_detector/Sequence_detector.srcs/sim_1/new/sequence_tb.v,,Sequence_detector,,,,,,,,
